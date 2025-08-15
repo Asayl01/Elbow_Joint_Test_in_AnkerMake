@@ -20,5 +20,5 @@ This task is about converting the robot arm joint design to STL format, slicing 
 - **Material:** AnkerMake PLA+ Metallic (Metallic Blue) – chosen for good print quality, durability, and ease of printing.
 
 ## Support material settings configured for printing the elbow joint
-
+![Support_Setting](Support_Settings.png)
 

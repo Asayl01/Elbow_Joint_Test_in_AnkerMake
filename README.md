@@ -19,6 +19,9 @@ This task is about converting the robot arm joint design to STL format, slicing 
 - **Fill – Sparse Infill Density: 15%** – balances weight, material usage, and internal strength.
 - **Material:** AnkerMake PLA+ Metallic (Metallic Blue) – chosen for good print quality, durability, and ease of printing.
 
+## Printer and Filament Setup & Model Orientation 
+The elbow joint model was oriented vertically to minimize overhangs and avoid printing large sections in mid-air, which improves print strength and reduces the need for excessive support material.
+![]()
 ## Support material settings configured for printing the elbow joint
 ![Support_Setting](Support_Settings.png)
 

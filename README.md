@@ -19,3 +19,6 @@ This task is about converting the robot arm joint design to STL format, slicing 
 - **Fill – Sparse Infill Density: 15%** – balances weight, material usage, and internal strength.
 - **Material:** AnkerMake PLA+ Metallic (Metallic Blue) – chosen for good print quality, durability, and ease of printing.
 
+## Support material settings configured for printing the elbow joint
+
+

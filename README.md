@@ -13,11 +13,3 @@ This task is about converting the robot arm joint design to STL format, slicing 
 3. After completing the Elbow Joint design in SolidWorks with customized fillets, chamfers, base cut-outs for weight reduction, and a custom logo, the model was exported to **STL** format.  
    The STL file was then opened in **eufyMake Studio**, and the print settings were adjusted to ensure maximum strength based on the part’s dimensions (65 × 68 × 8 mm, wall thickness 6 mm):
 
-   - **Layer Height:** 0.2 mm  
-   - **Perimeters (Walls):** 4 (for strong side walls; could be increased to 8 for fully solid walls)  
-   - **Top/Bottom Layers:** 5  
-   - **Infill Density:** 40–50% (Gyroid or Rectilinear pattern)  
-   - **Material:** PETG for better mechanical strength and heat resistance compared to PLA  
-   - **Nozzle Temp:** 240 °C  
-   - **Bed Temp:** 75 °C  
-   - **Cooling Fan:** 40–50% after the first layer

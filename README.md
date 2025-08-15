@@ -21,6 +21,7 @@ This task is about converting the robot arm joint design to STL format, slicing 
 
 ## Printer and Filament Setup & Model Orientation 
 The elbow joint model was oriented vertically to minimize overhangs and avoid printing large sections in mid-air, which improves print strength and reduces the need for excessive support material.
+
 ![Printer_and_Filament_Setup](Printer_and_Filament_Setup.png)
 
 ## Support material settings configured for printing the elbow joint
